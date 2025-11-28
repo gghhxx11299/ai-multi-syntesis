@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.log
+peer_synthesis_conversations.json
+*.txt
+.DS_Store
